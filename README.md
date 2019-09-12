@@ -3,6 +3,9 @@
 ## Project: 
 NeuralCar - is an Individual Research Project - Artificial Neural Network learning how to drive a car
 
+## Video: 
+https://www.youtube.com/watch?v=tMq4m6TIee8
+
 ## Author:  
 Pawel Granda
 
